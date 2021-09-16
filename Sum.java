@@ -4,7 +4,7 @@ class Sum{
 
         x=Integer.parseInt(ar[0]); y=Integer.parseInt(ar[1]);
 
-        s=x+y;
+        s=x+y+5;
         System.out.println("sum  of  "  +  x  +  "  and  "  +  y  +"  is  "  +s);
     }
 }
